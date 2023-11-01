@@ -1,0 +1,3 @@
+.pytest_cache
+*.temp
+__pycache__
